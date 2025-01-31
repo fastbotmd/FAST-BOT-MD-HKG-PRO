@@ -28,7 +28,9 @@ SE BOT EST AUSSI UN BOT HACKING
 ⚡ Déploiement Rapide
 
 🌟 1. Forker le projet
-😶‍🌫️ 2. session 1
+
+😶‍🌫️ 2. session
+
 Clique sur Fork pour cloner ce dépôt sur ton propre compte GitHub :
 🔗 Fork FAST BOT MD
 
