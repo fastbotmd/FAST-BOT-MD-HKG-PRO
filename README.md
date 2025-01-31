@@ -33,9 +33,9 @@ SE BOT EST AUSSI UN BOT HACKING
 
 Clique sur Fork pour cloner ce dépôt sur ton propre compte GitHub :
 
-🔗 Fork FAST BOT MD
+🔗 Fork
 
-🔗 Session 
+🔗 Session-1 
 
 🌐 2. Créer une session WhatsApp
 
@@ -56,7 +56,7 @@ Clique sur Fork pour cloner ce dépôt sur ton propre compte GitHub :
 
 📥 1. Cloner le repo
 
-git clone https://github.com/ton-utilisateur/FAST-BOT-MD.git
+git clone https://github.com/fastbotmd/FAST-BOT-MD.git
 cd FAST-BOT-MD
 
 📦 2. Installer les dépendances
