@@ -1,0 +1,15 @@
+{
+  "name": "fast-bot-md-whatsapp",
+  "version": "1.0.0",
+  "description": "Fast Bot MD WhatsApp QR Code generator",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "whatsapp-web.js": "^1.14.0",
+    "qrcode-terminal": "^0.12.0"
+  },
+  "author": "AQUA LIGHT NOBLESSE",
+  "license": "MIT"
+}
