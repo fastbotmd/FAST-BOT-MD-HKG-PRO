@@ -32,8 +32,11 @@ SE BOT EST AUSSI UN BOT HACKING
 😶‍🌫️ 2. session
 
 Clique sur Fork pour cloner ce dépôt sur ton propre compte GitHub :
+
 🔗 Fork FAST BOT MD
+
 🔗 Session 
+
 🌐 2. Créer une session WhatsApp
 
 1. Ouvre WhatsApp Web
