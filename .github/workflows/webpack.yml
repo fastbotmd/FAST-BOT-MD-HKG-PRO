@@ -1,0 +1,34 @@
+name: Déploiement Fast Bot MD
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Cloner le repo
+        uses: actions/checkout@v3
+
+      - name: 📦 Installer Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 📦 Installer les dépendances
+        run: npm install
+
+      - name: 🚀 Lancer le bot
+        run: node index.js
+        env:
+          SESSION_ID: ${{ secrets.SESSION_ID }}
+          OWNER_NUMBER: ${{ secrets.OWNER_NUMBER }}
+          OWNER_NAME: ${{ secrets.OWNER_NAME }}
+          PREFIX: ${{ secrets.PREFIX }}
+          BOT_NAME: ${{ secrets.BOT_NAME }}
