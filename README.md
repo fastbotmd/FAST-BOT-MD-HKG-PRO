@@ -1,4 +1,4 @@
-# FAST-BOT-MD-HKG-PRO
+de# FAST-BOT-MD-HKG-PRO
 développeur AQUA LIGHT NOBLESSE 
 SE BOT NE SERA PAS DISPONIBLE SUR PANEL
 Voici le README.md mis à jour avec le workflow GitHub Actions inclus.
@@ -33,9 +33,9 @@ SE BOT EST AUSSI UN BOT HACKING
 
 Clique sur Fork pour cloner ce dépôt sur ton propre compte GitHub :
 
-🔗 Fork
+ Fork
 
-🔗 Session-1 
+ Session-1 
 
 🌐 2. Créer une session WhatsApp
 
