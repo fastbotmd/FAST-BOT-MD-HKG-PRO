@@ -33,7 +33,7 @@ SE BOT EST AUSSI UN BOT HACKING
 
 Clique sur Fork pour cloner ce dépôt sur ton propre compte GitHub :
 🔗 Fork FAST BOT MD
-
+🔗 Session 
 🌐 2. Créer une session WhatsApp
 
 1. Ouvre WhatsApp Web
@@ -208,8 +208,14 @@ Le bot a besoin d’une session pour fonctionner.
 🔹 4. Configurer les variables d’environnement
 
 Toujours dans Settings > Secrets and variables > Actions, ajoute ces nouvelles variables :
-
-
+ini  set met session 
+BOT_NAME=FAST BOT MD
+PREFIX=.
+MODE=public
+SESSION_ID=ta_session_id_unique
+OWNER_NUMBER=+241XXXXXXXX
+OWNER_NAME=Aqua Light Noblesse
+DEVELOPER_NAME=Aqua Light Noblesse
 ---
 
 🔹 5. Ajouter le Workflow GitHub Actions
